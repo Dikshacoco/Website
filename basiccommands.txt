@@ -1,0 +1,15 @@
+Terminal commands:-
+	cd - get inside a directory
+	cd .. - come out of a directory
+	mkdir - to make a new directory
+	mv - to move a directory inside other/ rename a directory
+	rmdir - delete a directory
+	
+Git commands:- 
+	* sign in to github and create a reprository
+	* go to the creaed repr.. and click on gree button to clone with your laptop. Copy the url.
+	* Open the terminal and go to the directory u want to add.
+	* type command - " git clone <paste the url> " 
+	* make directory using cd command and thn add it to the reprository 
+	* Type command - " touch <name of file> " in order to add  the file to the reprository.
+	* Open the file using some text editor like gedit.
